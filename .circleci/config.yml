@@ -10,5 +10,6 @@ jobs:
       - image: circleci/node:9.11.1
     steps:
       - checkout
-      - run: echo "A first hello"
+      - run: npm install
+      - run: npm test
 
