@@ -1,5 +1,6 @@
 # rntesting
 Travis: [![Build Status](https://travis-ci.org/andrewmarmion/rntesting.svg?branch=master)](https://travis-ci.org/andrewmarmion/rntesting)
+ | CircleCI: [![CircleCI](https://circleci.com/gh/andrewmarmion/rntesting.svg?style=shield)](https://circleci.com/gh/andrewmarmion/rntesting)
 
 ## A repo to test CI suites with a react-native project. 
 
