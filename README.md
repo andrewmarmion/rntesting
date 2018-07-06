@@ -6,10 +6,20 @@ Travis: [![Build Status](https://travis-ci.org/andrewmarmion/rntesting.svg?branc
 
 Testing react-native testing. 
 
+This repo is a playground for different testing 
+
+## Travis
+Currently running Jest tests on Travis.
+
+## CircleCI
+Currently running Jest tests on CircleCI
+
 ## Observations
-Cannot run iOS builds on Circle CI as that requires using the macOS plan which costs 
+Cannot run iOS builds on Circle CI as that requires using the macOS plan which costs.  
+From previous projects, Bitrise CI has timed on the first test suite when doing Detox testing. 
 
 ## Todo
 
 * Get Detox working on Travis
-* Get Jest working on CircleCI
+* Bitrise
+* Jenkins
