@@ -36,8 +36,8 @@ install:
 
 - npm install -g react-native-cli
 - npm install -g detox-cli
-- RN_SRC_EXT=e2e.js react-native start
 
 script:
+- RN_SRC_EXT=e2e.js react-native start
 - detox build --configuration ios.sim.debug
 - detox test --configuration ios.sim.debug --cleanup
