@@ -10,7 +10,7 @@ Testing react-native testing.
 This repo is a playground for different testing 
 
 ## Travis
-Currently running Jest tests on Travis.
+Currently running Jest tests on Travis. Detox Test
 
 ## CircleCI
 Currently running Jest tests on CircleCI
