@@ -19,8 +19,9 @@ Currently running Jest tests on CircleCI
 Currently running Jest tests on Bitrise
 
 ## Observations
-Cannot run iOS builds on Circle CI as that requires using the macOS plan which costs.  
-From previous projects, Bitrise CI has timed on the first test suite when doing Detox testing. 
+* Cannot run iOS builds on Circle CI as that requires using the macOS plan which costs.  
+* From previous projects, Bitrise CI has timed on the first test suite when doing Detox testing. 
+* Bitrise freetrial has expired.
 
 ## Todo
 
